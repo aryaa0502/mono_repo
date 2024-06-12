@@ -123,6 +123,13 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.8.0"
+  melos_dependency:
+    dependency: "direct main"
+    description:
+      path: "../../packages/melos_dependency"
+      relative: true
+    source: path
+    version: "1.1.0"
   meta:
     dependency: transitive
     description:
