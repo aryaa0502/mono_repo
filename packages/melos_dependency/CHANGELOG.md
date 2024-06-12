@@ -1,3 +1,7 @@
+## 1.2.0
+
+ - **FEAT**: added calc3.
+
 ## 1.1.0
 
  - **FEAT**: calc2 feature added.
