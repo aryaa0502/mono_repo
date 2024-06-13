@@ -6,6 +6,6 @@ class Calculator {
   int addOne(int value) => value + 1;
 }
 
-class Calculator2 {}
-class Calculator3 {}
+// class Calculator2 {}
+// class Calculator3 {}
 

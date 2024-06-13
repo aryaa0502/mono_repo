@@ -32,7 +32,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int valueFromAddOne = Calculator().addOne(0);
+  int valueFromAddOne = Calculator().addOne(1);
 
   @override
   Widget build(BuildContext context) {
@@ -46,7 +46,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             CustomContainer(
-              color: const Color.fromARGB(255, 199, 176, 241),
+              color: Color.fromARGB(255, 176, 241, 230),
               height: 300,
               width: 500,
               child: Center(
